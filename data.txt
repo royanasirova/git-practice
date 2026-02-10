@@ -1,2 +1,3 @@
 Name: Roya
 Age: 20
+Favourite color: black
